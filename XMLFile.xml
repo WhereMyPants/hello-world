@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <cd>
+    <title>Empire Burlesque</title>
+    <artist>Bob Dylan</artist>
+    <country>USA</country>
+    <company>Columbia</company>
+    <price>10.90</price>
+    <year>1985</year>
+  </cd>
+  <cd>
+    <title>Hide your heart</title>
+    <artist>Bonnie Tyler</artist>
+    <country>UK</country>
+    <company>CBS Records</company>
+    <price>9.90</price>
+    <year>1988</year>
+  </cd>
+  <cd>
+    <title>Greatest Hits</title>
+    <artist>Dolly Parton</artist>
+    <country>USA</country>
+    <company>RCA</company>
+    <price>9.90</price>
+    <year>1982</year>
+  </cd>
+  <cd>
+    <title>Still got the blues</title>
+    <artist>Gary Moore</artist>
+    <country>UK</country>
+    <company>Virgin records</company>
+    <price>10.20</price>
+    <year>1990</year>
+  </cd>
+  <cd>
+    <title>Eros</title>
+    <artist>Eros Ramazzotti</artist>
+    <country>EU</country>
+    <company>BMG</company>
+    <price>9.90</price>
+    <year>1997</year>
+  </cd>
+  <cd>
+    <title>钢铁是怎样炼成的</title>
+    <artist>斯基</artist>
+    <country>俄罗斯</country>
+    <company>俄罗斯出版社</company>
+    <price>15.15</price>
+    <year>1932</year>
+  </cd>
+  <cd>
+    <title>C#编程基础</title>
+    <artist>高赫宁</artist>
+    <country>中国</country>
+    <company>成都众览科技公司</company>
+    <price>500</price>
+    <year>2016</year>
+  </cd>
+  <cd>
+    <title>dsadsa</title>
+    <artist>dsada</artist>
+    <country>中国</country>
+    <company>俄罗斯出版社</company>
+    <price>15.15</price>
+    <year>1932</year>
+  </cd>
+  <cd>
+    <title>dsadsa</title>
+    <artist>dsada</artist>
+    <country>中国</country>
+    <company>俄罗斯出版社</company>
+    <price>15.15</price>
+    <year>1932</year>
+  </cd>
+  <cd>
+    <title>dsd</title>
+    <artist>斯基</artist>
+    <country>dsdadsda</country>
+    <company>俄罗斯出版社</company>
+    <price>15.15</price>
+    <year>1932</year>
+  </cd>
+</catalog>

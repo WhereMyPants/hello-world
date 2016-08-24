@@ -1,0 +1,43 @@
+﻿body {
+}
+#scripttext
+{
+    margin:auto;
+    display:block;
+}
+#txtpostback
+{
+    margin:auto;
+    display:block;
+
+}
+.mybutton
+{
+    margin:auto;
+    display:block;
+    width:20%;
+    
+}
+table
+{   
+    margin:auto;
+    font-family:@仿宋;
+    font-size:20px;
+    text-align:center
+}
+
+table tr:hover
+{
+    background-color:Red;
+    cursor:pointer;
+}
+table td
+{
+    padding:0px,20px,0px,20px;
+}
+.insertitem
+{
+    background-color:Gray;
+    color:Maroon;
+}
+
